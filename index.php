@@ -1,3 +1,5 @@
 <?php
-echo "olá trabalho!"
+echo "olá trabalho!";
+
+echo " que bom";
 ?>
